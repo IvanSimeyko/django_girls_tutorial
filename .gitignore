@@ -8,3 +8,7 @@
 .idea
 local_settings.py
 db.sqlite3
+myvenv
+__pycache__
+staticfiles
+*.py[co]
